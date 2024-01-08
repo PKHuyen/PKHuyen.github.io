@@ -1,4 +1,4 @@
-# Porfolio hosted using Github pages.
+# Porfolio
 ## Author: Harley Phung
 
 Credit: The template is originally from free open source 
